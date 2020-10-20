@@ -79,8 +79,9 @@ export default function HomePage({ navigation }) {
                     <Icon name='menuunfold' type='ant-design' color='white' onPress={() => navigation.openDrawer()} containerStyle={{ position: 'absolute', left: '5%' }} />
 
                     <View style={{ alignSelf: 'center' }}>
-                        <Text style={{ color: 'white', fontFamily: 'ProximaNova-Black', fontSize: 43, textAlign: 'right' }}>SETU</Text>
-                        <Text style={{ color: 'white', fontFamily: 'ProximaNova-Bold', fontSize: 13, textAlign: 'right', bottom: 10, right: 5 }}>live</Text>
+                        <Text style={{ color: 'white', fontFamily: 'ProximaNova-Bold', fontSize: 43, textAlign: 'right' }}>FnLearn</Text>
+                       {// <Text style={{ color: 'white', fontFamily: 'ProximaNova-Bold', fontSize: 13, textAlign: 'right', bottom: 10, right: 5 }}>live</Text> 
+                    }
                     </View>
                     <Image source={require('../src/images/aman.jpg')} style={{ height: 50, width: 50, borderRadius: 25, position: 'absolute', right: '5%' }} />
 
