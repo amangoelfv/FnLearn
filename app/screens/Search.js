@@ -26,7 +26,8 @@ export default function LoginScreen2({navigation}) {
         style={styles.container}
       >
       <StatusBar hidden />
-        <Text style={styles.welcomeText}>Welcome Back!</Text>
+      <Text style={{ color: 'white', fontFamily: 'ProximaNova-Bold', fontSize: 43, textAlign: 'right' }}>FnLearn</Text>
+
         <Text style={styles.loginText}>Login</Text>
         <TextInput
           placeholder='Email Address'
@@ -99,7 +100,8 @@ const styles = StyleSheet.create({
     fontFamily: 'ProximaNova-Bold',
     marginTop: 20,
     marginBottom: 10,
-    fontFamily: 'ProximaNova-Bold'
+    fontFamily: 'ProximaNova-Bold',
+    marginTop:70
   },
   input: {
     width: '100%',
