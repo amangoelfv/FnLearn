@@ -10,7 +10,8 @@ cd FnLearn
 npm i
 react-native run-android
 ```
-## Screenshots <img src="https://github.com/amangoelfv/UpSqill/blob/main/app/src/images/ss1.jpg" width="220" height="400" />  <img src="https://github.com/amangoelfv/UpSqill/blob/main/app/src/images/ss2.jpg" width="220" height="400" />  <img src="https://github.com/amangoelfv/UpSqill/blob/main/app/src/images/ss3.jpg" width="220" height="400" />    
+## Screenshots 
+<img src="https://github.com/amangoelfv/UpSqill/blob/main/app/src/images/ss3.jpg" width="220" height="400" /><img src="https://github.com/amangoelfv/UpSqill/blob/main/app/src/images/ss2.jpg" width="220" height="600" /><img src="https://github.com/amangoelfv/UpSqill/blob/main/app/src/images/ss1.jpg" width="220" height="400" />    
 
 
 
